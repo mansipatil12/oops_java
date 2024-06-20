@@ -1,0 +1,10 @@
+total 48
+drwxr-xr-x@ 9 mansipatil  staff   288 Jun 20 17:50 .
+drwxr-xr-x  5 mansipatil  staff   160 Jun 20 14:26 ..
+-rw-r--r--@ 1 mansipatil  staff     0 Jun 20 17:50 out.txt
+-rw-r--r--@ 1 mansipatil  staff  1108 Jun 20 15:15 ques1.class
+-rw-r--r--@ 1 mansipatil  staff   633 Jun 20 15:17 ques1.java
+-rw-r--r--@ 1 mansipatil  staff  1181 Jun 20 17:47 ques2.class
+-rw-r--r--@ 1 mansipatil  staff   671 Jun 20 17:46 ques2.java
+-rw-r--r--@ 1 mansipatil  staff   877 Jun 20 17:42 ques3.class
+-rw-r--r--@ 1 mansipatil  staff   982 Jun 20 15:32 ques3.java
