@@ -1,4 +1,4 @@
-
+package Java_control_structure;
 // Import the Scanner class from java.util package to read input from the user
 import java.util.Scanner;
 public class ques2 {

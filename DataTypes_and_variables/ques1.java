@@ -2,7 +2,7 @@
 
 
 
-
+package DataTypes_and_variables;
 public class ques1 {
     public static void main(String[] args) {
         // Declare variables of each primitive data type

@@ -1,4 +1,4 @@
-
+package DataTypes_and_variables;
 
 
 public class ques3 {

@@ -1,4 +1,4 @@
-
+package Java_control_structure;
 
 import java.util.Scanner;
 public class ques6 {   

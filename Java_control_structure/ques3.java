@@ -1,5 +1,5 @@
 
-
+package Java_control_structure;
 import java.util.Scanner; //import java scanner
 public class ques3 { 
     public static void main(String[] args) {
