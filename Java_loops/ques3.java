@@ -1,4 +1,4 @@
-package Java_loops;
+
 
 import java.util.Random;
 import java.util.Scanner;
